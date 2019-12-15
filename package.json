@@ -1,5 +1,6 @@
 {
-  "name": "minimal",
+  "name": "lili-homework",
+  "description": "website with activities for kids, to be downloaded and printed by parents",
   "dependencies": {
     "apollo-boost": "0.4.7",
     "graphql": "0.13.2",
